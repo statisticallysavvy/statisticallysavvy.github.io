@@ -1,0 +1,11 @@
+title: Statistically Savvy
+description: Machine learning, statistics, data science and more
+author: Statistically Savvy
+
+url: "https://statisticallysavvy.github.io"
+baseurl: ""
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
