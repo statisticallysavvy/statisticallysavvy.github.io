@@ -5,9 +5,6 @@ date: 2026-09-09 12:00:00 -0000
 categories: statistics
 ---
 
-
-# Power Analysis Done Properly
-
 Completing a power analysis is something all statisticians and data scientists should be able to do, but is one of those things that is often overlooked in introductory courses. A power analysis will allow you to figure out one of the following things if you know the others:
 
 * sample size
